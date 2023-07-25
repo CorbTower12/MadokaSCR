@@ -8,6 +8,7 @@ Hello Everyone!
 First off, let me say that if you own the copyright to these files, I will gladly take them down. I have contacted people from CharaOS in regards to trying to fix my problems with these files but they said they could not help me since the product is from ~2014-2015. I have email proof if need be but let me explain the situation. Public outreach is my last option so here we are.
 
 About:
+
 This MadokaSCR repository is a Puella Magi Madoka Magica screensaver disk called "Prize G Desktop Accessory" from "Ichiban Kuji Premium Theatrical Version Puella Magi Madoka Magica Special Limited". Click "HERE" to go to the Ichiban Kuji site showing this product. If you scroll down, you will see a prize list and it is the 8th one counting left to right.
 
 I have attatched two versions of the files: The original files off the disk and a version of the files with roughly translated folder names. I will be using forward slashes (/) to separate the original file path and the translated one because there are two copies of each file.
