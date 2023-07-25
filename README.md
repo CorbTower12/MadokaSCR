@@ -1,6 +1,8 @@
 # MadokaSCR
 This is the "Ichiban Kuji Premium Theatrical Version Puella Magi Madoka Magica ~Special Limited~ Prize G Desktop Accessory" screensaver disk files from ~2014-2015.
 
+The following is a copy of the initial discussion post from MadokaSCR:
+
 Intro:
 
 Hello Everyone!
