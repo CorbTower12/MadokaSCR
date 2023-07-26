@@ -17,6 +17,6 @@ I have attatched two versions of the files: The original files off the disk and 
 
 The Problem:
 
-In the "スクリーンセーバ(魔女)"/"Screen Saver (witch)" folder, there are two folders "win" and "mac". In the "win" folder is the "ichibankuji_mc.scr" file. I believe this file is corrupt. Whenever it's ran on my computers, it just shows a black screen and it shouldn't. I have tried everything in my power to fix this issue but I am not a software engineer, I only know computer networking. I have tried using ChatGBT/OpenAI to write me scripts to fix this but, as I learned, it only gives you a starting point in terms of the code.
+In the "スクリーンセーバ(魔女)"/"Screen Saver (witch)" folder, there are two folders "win" and "mac". In the "win" folder is the "ichibankuji_mc.scr" file. I believe this file is corrupt. Whenever it's ran on my computers, it just shows a black screen and it shouldn't. I have tried everything in my power to fix this issue but I am not a software engineer, I only know computer networking. I have tried using ChatGPT/OpenAI to write me scripts to fix this but, as I learned, it only gives you a starting point in terms of the code.
 
 If anyone can help fix this issue, that would be greatly appreciated.
